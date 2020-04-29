@@ -19,3 +19,4 @@ So the basic procedure is as follows:
 - install git-lfs as normal
 - Go to settings/security and privacy and select "Allow apps downloaded from App Store and identified developers" (this is optional but probably good practice to restore things back to the default).
 - run "sudo spctl --master-enable"
+
