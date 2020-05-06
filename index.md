@@ -1,11 +1,9 @@
-## AI resources
+## AI
 
-### Maths
-[Linear Algebra at MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+Link to maths
 
-[Calculus at MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+Link to ML
 
-[Statistics and Probability at MIT](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
 ### Matplot, Numpy
 [https://github.com/rougier/matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial)
@@ -19,6 +17,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0ODU2NTUzLDEzNTM5NTQ5MCwtODgyND
-Q2MDY5XX0=
+eyJoaXN0b3J5IjpbMTU0MTk1NTA3OCw4MjQ4NTY1NTMsMTM1Mz
+k1NDkwLC04ODI0NDYwNjldfQ==
 -->
