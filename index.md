@@ -1,22 +1,22 @@
 ## AI
 
+
 Link to maths
+
+Link to Data Science
 
 Link to ML
 
+## Kaggle
+[https://www.kaggle.com/](https://www.kaggle.com/)
 
-### Matplot, Numpy
-[https://github.com/rougier/matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial)
+## Datasets
+[http://www.image-net.org/](http://www.image-net.org/)
 
-[https://github.com/rougier/numpy-100](https://github.com/rougier/numpy-100)
+[http://cocodataset.org/#home](http://cocodataset.org/#home)
 
-### Cufflinks
-[https://github.com/santosjorge/cufflinks](https://github.com/santosjorge/cufflinks)
-
-
-
-
+[https://opensource.google/projects/open-images-dataset](https://opensource.google/projects/open-images-dataset)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTk1NTA3OCw4MjQ4NTY1NTMsMTM1Mz
-k1NDkwLC04ODI0NDYwNjldfQ==
+eyJoaXN0b3J5IjpbLTE5MTc0MjgzMjcsODI0ODU2NTUzLDEzNT
+M5NTQ5MCwtODgyNDQ2MDY5XX0=
 -->
