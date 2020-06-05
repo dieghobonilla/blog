@@ -7,6 +7,9 @@ Link to Data Science
 
 Link to ML
 
+## OpenAI
+[https://openai.com/blog/jukebox/](https://openai.com/blog/jukebox/)
+
 ## Kaggle
 [https://www.kaggle.com/](https://www.kaggle.com/)
 
@@ -17,6 +20,6 @@ Link to ML
 
 [https://opensource.google/projects/open-images-dataset](https://opensource.google/projects/open-images-dataset)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0MjgzMjcsODI0ODU2NTUzLDEzNT
-M5NTQ5MCwtODgyNDQ2MDY5XX0=
+eyJoaXN0b3J5IjpbOTY4MTAzNTk0LC0xOTE3NDI4MzI3LDgyND
+g1NjU1MywxMzUzOTU0OTAsLTg4MjQ0NjA2OV19
 -->
